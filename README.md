@@ -2,9 +2,9 @@
 
 A personalised database system for storing user data. Example : name, email, city, mobile etc. 
 
-## Tech stack: HTML, CSS and JavaScript (vanilla).
+### Tech stack: HTML, CSS and JavaScript (vanilla).
 
-### JS concepts which were used are:
+#### JS concepts which were used are:
 - DOM manipulation.
 - Objects and Array methods.
 - Form and Form events.
@@ -13,7 +13,7 @@ A personalised database system for storing user data. Example : name, email, cit
 - Event Listeners.
 - Loops.
 
-### Few of the features this project has: 
+#### Few of the features this project has: 
 - Adding new users
 - View all existing users.
 - Delete users.
