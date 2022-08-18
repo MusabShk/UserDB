@@ -1,0 +1,19 @@
+.webpageheading {
+  color: #002bc5;
+  font-size: 60px;
+}
+.webpagesubheading {
+  color: #787878;
+}
+.formheading {
+  font-size: 12px;
+}
+.invalid {
+  color: red;
+}
+.valid {
+  color: green;
+}
+.hidetable {
+  display: none;
+}
