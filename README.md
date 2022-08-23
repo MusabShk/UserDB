@@ -18,3 +18,15 @@ A personalised database system for storing user data. Example : name, email, cit
 - View all existing users.
 - Delete users.
 - Form validation and help texts.
+
+### Landing Page
+
+![](app-screenshots/1.png)
+
+### Form fields validation using regular expression (Regex)
+
+![](app-screenshots/2.png)
+
+### Displaying the data saved
+
+![](app-screenshots/3.png)
